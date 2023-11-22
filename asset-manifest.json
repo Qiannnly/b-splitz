@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bill-splitter/static/css/main.77599813.css",
+    "main.js": "/bill-splitter/static/js/main.843a6f9d.js",
+    "index.html": "/bill-splitter/index.html",
+    "main.77599813.css.map": "/bill-splitter/static/css/main.77599813.css.map",
+    "main.843a6f9d.js.map": "/bill-splitter/static/js/main.843a6f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77599813.css",
+    "static/js/main.843a6f9d.js"
+  ]
+}
